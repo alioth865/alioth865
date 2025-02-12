@@ -5,5 +5,5 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [KnowMad Mood](https://www.linkedin.com/company/hcltech/posts/?feedView=all) .
+- 🔭 I’m currently working on [HCLTech](https://www.linkedin.com/company/hcltech/posts/?feedView=all) .
 - 📫 How to reach me: alioth865@yahoo.com.
